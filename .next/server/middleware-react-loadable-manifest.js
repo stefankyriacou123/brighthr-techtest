@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/mswWrapper.tsx -> ../setup/mock-service-worker\":{\"id\":\"app/mswWrapper.tsx -> ../setup/mock-service-worker\",\"files\":[\"static/chunks/_app-pages-browser_src_setup_mock-service-worker_ts.js\"]}}"
